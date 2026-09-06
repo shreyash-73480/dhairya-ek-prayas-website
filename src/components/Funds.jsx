@@ -1,7 +1,6 @@
 import '../css/funds.css';
 
 export default function Funds() {
-    const isMobile = window.innerWidth <= 768;
 
     return(
         <div className="funds">
