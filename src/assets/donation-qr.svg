@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="520" height="520" viewBox="0 0 520 520">
+<rect width="520" height="520" fill="white"/>
+<g fill="black">
+<rect x="30" y="30" width="140" height="140"/><rect x="50" y="50" width="100" height="100" fill="white"/><rect x="75" y="75" width="50" height="50"/>
+<rect x="350" y="30" width="140" height="140"/><rect x="370" y="50" width="100" height="100" fill="white"/><rect x="395" y="75" width="50" height="50"/>
+<rect x="30" y="350" width="140" height="140"/><rect x="50" y="370" width="100" height="100" fill="white"/><rect x="75" y="395" width="50" height="50"/>
+<path d="M210 30h30v30h-30zM270 30h50v30h-50zM190 80h40v30h-40zM250 80h30v50h-30zM300 80h30v30h-30zM200 150h30v30h-30zM250 150h70v30h-70zM350 190h30v40h-30zM410 190h30v30h-30zM470 190h20v50h-20zM190 210h40v30h-40zM250 210h50v30h-50zM320 210h30v50h-30zM200 270h30v30h-30zM250 270h30v60h-30zM300 270h60v30h-60zM380 270h30v30h-30zM430 270h60v30h-60zM190 330h50v30h-50zM270 330h30v30h-30zM320 330h50v30h-50zM400 330h30v30h-30zM460 330h30v30h-30zM190 390h30v40h-30zM240 390h50v30h-50zM310 390h30v60h-30zM360 390h50v30h-50zM430 390h30v60h-30zM480 390h10v30h-10zM200 450h50v30h-50zM270 450h30v30h-30zM350 450h30v30h-30zM400 450h30v30h-30z"/>
+</g>
+<text x="260" y="510" text-anchor="middle" font-family="Arial" font-size="18">ABC NGO • abc@upi</text>
+</svg>
