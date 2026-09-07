@@ -10,7 +10,7 @@ export default function Footer() {
                             <h2>Contact Us</h2>
                             <a href="https://maps.google.com" target="_blank" rel="noopener noreferrer"><p><i className="fa fa-map-marker-alt"></i>Dhairya NGO, 3/14, Vitthal rukmini niwas, Kanjur east, Mumbai, India 400042</p></a>
                             <a href="tel:+91-9000000000"><p><i className="fa fa-phone"></i>9892877209</p></a>
-                            <a href="mailto:contact@abcngo.org"><p><i className="fa fa-envelope"></i>dhairyango9@gmail.com</p></a>
+                            <a href="mailto:contact@abcngo.org"><p><i className="fa fa-envelope"></i>contact@dhairyaekprayas.org</p></a>
                             <div className="footer-social">
                             <a className="btn btn-custom" href="https://x.com"><i className="fab fa-x-twitter"></i></a>
                             <a className="btn btn-custom" href="https://facebook.com"><i className="fab fa-facebook-f"></i></a>
